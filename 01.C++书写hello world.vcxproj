@@ -206,6 +206,7 @@
     <ClCompile Include="变量.cpp">
       <DeploymentContent>false</DeploymentContent>
     </ClCompile>
+    <ClCompile Include="常量.cpp" />
     <ClCompile Include="注释.cpp">
       <DeploymentContent>false</DeploymentContent>
     </ClCompile>

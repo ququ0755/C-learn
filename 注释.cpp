@@ -14,7 +14,7 @@ using namespace std;
 
 
 
-int main5()
+int qu()
 {
     //11行代码含义是在屏幕中输出Hello World
     cout << "Hello World" << endl;
