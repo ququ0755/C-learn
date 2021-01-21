@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 
 	//整型
-	//1、短整型
+	//1、短整型 (-32768 ~ 32767)
 	short numl = 10;
 
 	//2、整型
