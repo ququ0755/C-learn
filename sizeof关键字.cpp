@@ -14,8 +14,11 @@ int main() {
 	int num2 = 10;
 	cout << "int占用内存空间为：" << sizeof(int) << endl;
 
-	int num3 = 10;
+	long num3 = 10;
 	cout << "long占用内存空间为：" << sizeof(long) << endl;
+
+	long long num4 = 10;
+	cout << "long long占用内存空间为：" << sizeof(long long) << endl;
 
 
 	system("pause");
