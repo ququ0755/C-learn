@@ -25,6 +25,8 @@ int main() {
 	long long num4 = 10;
 	cout << "long long占用内存空间为：" << sizeof(long long) << endl;
 
+	
+
 	//整型大小比较
 	//short <int <= long < long long
 
