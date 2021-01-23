@@ -1,0 +1,3 @@
+﻿  数据类型-实型.cpp
+c:\users\12522\source\repos\clearn-8\clearn-8\数据类型-实型.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  clearn-8.vcxproj -> C:\Users\12522\source\repos\clearn-8\Debug\clearn-8.exe
