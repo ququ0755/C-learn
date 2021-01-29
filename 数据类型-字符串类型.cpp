@@ -9,7 +9,7 @@ int main(){
     //注意事项 char 字符串名 【】
     //注意事项2 等号后面要用双引号 包含起来字符串
     char str [] = "hello world"；
-    cout << str <<endl;
+    cout << str <<endl ;
 
     //2、c++风格字符串
     // 包含一个头文件 #include <string>
@@ -23,7 +23,7 @@ int main(){
 
    
    
-   system("pause")
+   system("pause") ；
    return 0;
 
 
