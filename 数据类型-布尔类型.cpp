@@ -12,7 +12,7 @@ int main(){
     cout << "size of bool = " << sizeof(bool) << endl;
 
 
-    system("pause")
+    system("pause") ；
 
 
     return 0;
