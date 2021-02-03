@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C_learn"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/qufan/Public/C-learn/cmake-build-debug-"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/qufan/Public/C-learn/cmake-build-debug-"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/qufan/Public/C-learn/cmake-build-debug-"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_learn">
+				<Option output="/Users/qufan/Public/C-learn/cmake-build-debug-/C_learn" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qufan/Public/C-learn/cmake-build-debug-"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 C_learn"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_learn/fast">
+				<Option output="/Users/qufan/Public/C-learn/cmake-build-debug-/C_learn" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qufan/Public/C-learn/cmake-build-debug-"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 C_learn/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qufan/Public/C-learn/cmake-build-debug-/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/qufan/Public/C-learn/sizeof关键字.cpp">
+			<Option target="C_learn"/>
+		</Unit>
+		<Unit filename="/Users/qufan/Public/C-learn/数据类型-字符串类型.cpp">
+			<Option target="C_learn"/>
+		</Unit>
+		<Unit filename="/Users/qufan/Public/C-learn/数据类型-实型.cpp">
+			<Option target="C_learn"/>
+		</Unit>
+		<Unit filename="/Users/qufan/Public/C-learn/数据类型-布尔类型.cpp">
+			<Option target="C_learn"/>
+		</Unit>
+		<Unit filename="/Users/qufan/Public/C-learn/数据类型-数据的输入.cpp">
+			<Option target="C_learn"/>
+		</Unit>
+		<Unit filename="/Users/qufan/Public/C-learn/数据类型-转义字符.cpp">
+			<Option target="C_learn"/>
+		</Unit>
+		<Unit filename="/Users/qufan/Public/C-learn/数据类型.cpp">
+			<Option target="C_learn"/>
+		</Unit>
+		<Unit filename="/Users/qufan/Public/C-learn/运算符-算数运算符-加减乘除的运算.cpp">
+			<Option target="C_learn"/>
+		</Unit>
+		<Unit filename="/Users/qufan/Public/C-learn/运算符-算数运算符-取模运算.cpp">
+			<Option target="C_learn"/>
+		</Unit>
+		<Unit filename="/Users/qufan/Public/C-learn/运算符-算数运算符-递增递减.cpp">
+			<Option target="C_learn"/>
+		</Unit>
+		<Unit filename="/Users/qufan/Public/C-learn/运算符-赋值运算符.cpp">
+			<Option target="C_learn"/>
+		</Unit>
+		<Unit filename="/Users/qufan/Public/C-learn/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

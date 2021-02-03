@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int qu() {
+int qu8() {
 
 	//1、单精度    float
 	//2、双精度    double

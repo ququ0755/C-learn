@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int qu(){
 
     //加减乘除
-    int a1 = 10 ；
-    int b1 = 3 ；
+    int a1 = 10;
+    int b1 = 3;
 
     cout << a1 + b1 << endl;
     cout << a1 - b1 << endl;
@@ -27,7 +27,7 @@ int main(){
     double d2 = 0.22;
     cout << d1 / d2 << endl; //运算结果也可以是小数
 
-    system("pause") ；
+    system("pause");
     
   
     return 0;

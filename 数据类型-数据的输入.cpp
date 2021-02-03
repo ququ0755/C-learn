@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int qu3(){
 
     //1、整形
     int a = 0;
@@ -22,7 +22,7 @@ int main(){
     cout << "字符型变量ch =" << ch << endl;
 
     //4、字符串型
-    string str = "hello"
+    string str = "hello";
     cout << "请给字符串str赋值: " << endl;
     cin >> str;
     cout << "字符串str =" << str << endl;
@@ -34,7 +34,7 @@ int main(){
     cout << "布尔类型 flag =" << flag << endl;
 
 
-   system("pause")
+   system("pause");
 
 
     return 0;

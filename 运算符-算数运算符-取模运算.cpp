@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int qu6(){
 
     //取模运算本质就是求余数
     int a1 = 10;

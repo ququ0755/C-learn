@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int qu7(){
 
     // 1、前置递增
     int a = 10;

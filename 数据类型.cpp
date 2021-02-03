@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int q() {
+int qu9() {
 
 	//整型
 	//1、短整型 (-32768 ~ 32767)

@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main(){
+int qu4(){
 
     //转义字符
 

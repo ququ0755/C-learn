@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int qu2(){
 
     bool flag = true;
     cout << flag << endl; //1
@@ -12,7 +12,7 @@ int main(){
     cout << "size of bool = " << sizeof(bool) << endl;
 
 
-    system("pause") ；
+    system("pause");
 
 
     return 0;
