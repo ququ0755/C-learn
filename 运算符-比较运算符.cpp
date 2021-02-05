@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-	//±È½ÏÔËËã·û
+	//æ¯”è¾ƒè¿ç®—ç¬¦
 	// ==
 	int a = 10;
 	int b = 20; 
